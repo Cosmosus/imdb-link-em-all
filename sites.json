@@ -1136,7 +1136,7 @@
   {
     "id": "pressplay",
     "title": "PressPlay",
-    "icon": "view-source:https://pressplay.top/favicon/favicon-16x16.png",
+    "icon": "https://pressplay.top/favicon/favicon-16x16.png",
     "url": "https://pressplay.top/search/{{IMDB_TITLE}}",
     "noResultsMatcher": "Nothing Found",
     "category": "streaming"
