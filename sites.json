@@ -1134,10 +1134,10 @@
     "category": "streaming"
   },
   {
-    "id": "ev01",
-    "title": "ev01.to",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEXWh1gAAAAUBAQ1AwNWAgYWJxCSAgYRKzTIAAb7AAk4OjkKTkZERAhnb2Z4cgakmwWYmpdxYaI+AAAAAXRSTlMAQObYZgAAAIZJREFUGFdtz0FSAkEMAMBOBhDQ/3+VdckkHjxZ5Q+6A9zBAYHH3jMi1noR3GuLJdtcDuHx3p9aVO9Z11e4bSQlF2fciVEXNdfKJb1LVXZnmD1SM7nbTpZJBh83T2KfUqCrfLdpUsTE7szuDiHc6kvJZBxxppWQuvea9UvvCRPP1se/ub/9H2wwUAHX3VB7AAAAAElFTkSuQmCC",
-    "url": "https://pahe.sbs/?s={{IMDB_TITLE}}",
+    "id": "pressplay",
+    "title": "PressPlay",
+    "icon": "view-source:https://pressplay.top/favicon/favicon-16x16.png",
+    "url": "https://pressplay.top/search/{{IMDB_TITLE}}",
     "noResultsMatcher": "Nothing Found",
     "category": "streaming"
   },
